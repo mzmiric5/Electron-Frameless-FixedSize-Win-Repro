@@ -1,0 +1,15 @@
+{
+  "name": "electron-repro",
+  "version": "1.0.0",
+  "description": "Windows noframe size issues",
+  "main": "index.js",
+  "repository": "https://github.com/mzmiric5/Electron-Frameless-FixedSize-Win-Repro.git",
+  "author": "Miso Zmiric (Mike)",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.6.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
